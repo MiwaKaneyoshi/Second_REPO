@@ -3,7 +3,7 @@
 ## 簡単なポートフォリオサイトの作成
 #### TODO
 
-* index.html作成 -> 担当 Aさん
+* index.html作成 -> 担当  Aさん
 * app.cssの作成 -> 担当 Bさん
 * index.jsの作成 -> 担当 Cさん
 
